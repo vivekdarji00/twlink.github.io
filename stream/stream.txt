@@ -1,0 +1,90 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="robots" content="noindex">
+        <link rel="icon" href="https://fast.rtiserver.in/img/favicon.png" type="image/png">
+        <title>Fast Server - RTI</title>
+        <link rel="stylesheet" href="comodo/css/bootstrap.css">
+        <link rel="stylesheet" href="comodo/vendors/linericon/style.css">
+        <link rel="stylesheet" href="comodo/css/font-awesome.min.css">
+        <link rel="stylesheet" href="comodo/vendors/owl-carousel/owl.carousel.min.css">
+        <link rel="stylesheet" href="comodo/vendors/lightbox/simpleLightbox.css">
+        <link rel="stylesheet" href="comodo/vendors/nice-select/css/nice-select.css">
+        <link rel="stylesheet" href="comodo/vendors/animate-css/animate.css">
+
+        <link rel="stylesheet" href="comodo/css/style.css">
+        <link rel="stylesheet" href="comodo/css/responsive.css">
+
+<link href="https://vjs.zencdn.net/7.5.4/video-js.css" rel="stylesheet">
+
+  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+  <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://fast.rtiserver.in/img/rti.css">
+
+
+    </head>
+     <body class="about_page">
+
+		<header class="header_area">
+			<div class="main_menu">
+					<center><a href="https://raretoonsindia.com"><img src="https://raretoonsindia.com/wp-content/uploads/2020/03/logo.png" alt=""></a></center>
+			</div>
+		</header>	
+	
+<br/>	
+
+		<section class="newsletter_area">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12">
+<br/>
+<center>
+<a class="dti_btn" href="https://fast.rtiserver.in/download.php?url=cFBOYi80NXNvRHNXQ1Y1YnhzQ1h3UDAzS2IvRklSTWkrbUFNK3c2dU4wQWtra3ZlbU0yazZTdlRid0d6YXArN2k5cTArc3hub0Y0eUt3V3hSak5ncUlIdzN6T1BZUXNZTEsrL21yYytnY2Q1dnNhT0ZJc1diRVc0a0hLa1A3RzM=">Get Download Link</a>
+<hr />
+<h4>PokemonS17E01 [RareToonsIndia.com]</h4>
+<hr />
+
+						<div class="newsletter_inner">
+							<h1 style="text-align:center;">Watch Online (Beta Server)</h1>
+						</div>
+ <iframe src="https://fast.rtiserver.in/embed.php?url=cFBOYi80NXNvRHNXQ1Y1YnhzQ1h3UDAzS2IvRklSTWkrbUFNK3c2dU4wQWtra3ZlbU0yazZTdlRid0d6YXArN2k5cTArc3hub0Y0eUt3V3hSak5ncUlIdzN6T1BZUXNZTEsrL21yYytnY2Q1dnNhT0ZJc1diRVc0a0hLa1A3RzM=" width="100%" height="480px" frameborder="0" allowfullscreen></iframe>
+ 
+  <div class="newsletter_inner">
+<script language="JavaScript" type="text/javascript">
+ads = new Array(6);
+ads[0] = "<a href='https://raretoonsindia.net/marvel-universe-shows-hindi-fhd/' rel='nofollow'>" + 
+"<img src='https://1.bp.blogspot.com/-2Z3_XaKxGY8/X2XdzWUA0XI/AAAAAAAAU98/mObfWT1PqCkBBYIYCcwfrRao1u8P6ZRHQCLcBGAsYHQ/s1200/Marvel-Universe.gif' border='0' height='90px' width='728px'/></a>";
+ads[1] = "<a href='https://raretoonsindia.net/doraemon-all-movies-hindi-dubbed-download-360p-480p-720p-hd-1080p-fhd/' rel='nofollow'>" +
+"<img src='https://1.bp.blogspot.com/-zvxQBvxqAp4/X2XZ04Qe8EI/AAAAAAAAU9w/RNvxvYqkkq07a34z3mrPKK6tHatsoXcwACLcBGAsYHQ/s1000/Doaremon.gif' border='0' height='90px' width='728px'/></a>";
+ads[2] = "<a href='https://raretoonsindia.net/ben-10-reboot-2016-season-4-hindi-episodes-download-fhd/' rel='nofollow'>" +
+"<img src='https://1.bp.blogspot.com/-Jn3obwR4L-0/X2Xk0WdJ5AI/AAAAAAAAU-I/0NmeZsKsf2kqC2VUz_i592X7ox2b3RT8QCLcBGAsYHQ/s728/Ben%2B10%2BReboot%2B2016%2BHindi.png' border='0' height='90px' width='728px'/></a>";
+ads[3] = "<a href='https://raretoonsindia.net/pokemon-all-series-seasons-hindi-dubbed-download-360p-480p-720p-1080p-fhd/' rel='nofollow'>" +
+"<img src='https://1.bp.blogspot.com/-ax7F2AcdeyE/X2Xoq8KpczI/AAAAAAAAU-c/BvX-r8ps9LwDDINzpoI9BwkOAtofzcGlgCLcBGAsYHQ/s1200/Pokemon.gif' border='0' height='90px' width='728px'/></a>";
+ads[4] = "<a href='https://raretoonsindia.net/ben-10-versus-the-universe-the-movie-hindi-tamil-telugu-fhd/' rel='nofollow'>" +
+"<img src='https://1.bp.blogspot.com/-v6DnyEKzvug/X4LQe3IrsZI/AAAAAAAAWD8/emI_6SerDW8mf6N_dB4CMvy9VILNERnMACLcBGAsYHQ/s1200/ben%2B10%2Bmovie.gif' border='0' height='90px' width='728px'/></a>";
+ads[5] = "<a href='https://raretoonsindia.net/shin-chan-all-movies-hindi-dubbed-download-360p-480p-720p-hd-1080p-fhd/' rel='nofollow'>" +
+"<img src='https://1.bp.blogspot.com/-CSG0vtsQ70Y/X2fIhEMYB5I/AAAAAAAAVDk/GzIyk-97jUwI7LeY0EZd7V3WtJnA9BtfQCLcBGAsYHQ/s1000/Shin%2BChan.gif' border='0' height='90px' width='728px'/></a>";
+index = Math.floor(Math.random() * ads.length);
+document.write(ads[index]); 
+</script>				</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+	<footer class="footer_area section_gap_top">
+			<div class="container">
+					<aside class="f_widget ab_widget">
+							<div class="f_title">
+								<h4 style="text-align: center;"><span style="color: #ffcc00;">This site does not store any files on its server. All contents are provided by non-affiliated third parties.</span></h4>
+							</div>
+<br/>
+<br/>
+<br/>
+						<aside class="f_widget ab_widget">
+				</div>
+	</body>
+</html>
